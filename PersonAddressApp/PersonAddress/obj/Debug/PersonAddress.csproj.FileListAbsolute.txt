@@ -1,0 +1,15 @@
+C:\Development\PersonAddressApp\PersonAddress\bin\Debug\PersonAddress.exe.config
+C:\Development\PersonAddressApp\PersonAddress\bin\Debug\PersonAddress.exe
+C:\Development\PersonAddressApp\PersonAddress\bin\Debug\PersonAddress.pdb
+C:\Development\PersonAddressApp\PersonAddress\bin\Debug\PersonAddressLibrary.dll
+C:\Development\PersonAddressApp\PersonAddress\bin\Debug\PersonAddressLibrary.pdb
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.csproj.AssemblyReference.cache
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.csproj.SuggestedBindingRedirects.cache
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.CreatePerson.resources
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.Properties.Resources.resources
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.csproj.GenerateResource.cache
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.csproj.CoreCompileInputs.cache
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.csproj.CopyComplete
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.exe
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.pdb
+C:\Development\PersonAddressApp\PersonAddress\obj\Debug\PersonAddress.AddressEntry.resources

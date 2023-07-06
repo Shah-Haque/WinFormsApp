@@ -1,0 +1,6 @@
+C:\Development\PersonAddressApp\PersonAddressLibrary\bin\Debug\PersonAddressLibrary.dll
+C:\Development\PersonAddressApp\PersonAddressLibrary\bin\Debug\PersonAddressLibrary.pdb
+C:\Development\PersonAddressApp\PersonAddressLibrary\obj\Debug\PersonAddressLibrary.csproj.AssemblyReference.cache
+C:\Development\PersonAddressApp\PersonAddressLibrary\obj\Debug\PersonAddressLibrary.csproj.CoreCompileInputs.cache
+C:\Development\PersonAddressApp\PersonAddressLibrary\obj\Debug\PersonAddressLibrary.dll
+C:\Development\PersonAddressApp\PersonAddressLibrary\obj\Debug\PersonAddressLibrary.pdb
